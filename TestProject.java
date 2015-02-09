@@ -1,8 +1,9 @@
-package dziuba.test.project;
+//package dziuba.test.project;
 
 public class TestProject {
 	
 	public static void main(String[] args){
 		System.out.println("Hello World!");
+		System.out.println("Faka faka");
 	}
 }
