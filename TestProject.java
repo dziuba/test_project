@@ -1,4 +1,4 @@
-package dziuba.test.project
+package dziuba.test.project;
 
 public class TestProject {
 	
